@@ -1,0 +1,6 @@
+{
+  "name": "Forza Car Racing",
+  "description": "Dynamic web-based car simulator, synthesized engine audio, high-score leaderboards, and a professional Unity physics C# generator by Manish Kumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
